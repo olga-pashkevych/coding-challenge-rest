@@ -1,0 +1,13 @@
+###> symfony/framework-bundle ###
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/vendor/
+###< symfony/framework-bundle ###
+
+/.idea/
+composer.phar
+
+###> symfony/phpunit-bridge ###
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
